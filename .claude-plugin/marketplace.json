@@ -1,7 +1,8 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "directcase-knowledge-work",
   "owner": {
-    "name": "Anthropic"
+    "name": "DirectCase",
+    "url": "https://github.com/directcase"
   },
   "plugins": [
     {
