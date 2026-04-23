@@ -1,0 +1,19 @@
+{
+  "name": "directcase",
+  "owner": {
+    "name": "DirectCase",
+    "url": "https://github.com/directcase"
+  },
+  "plugins": [
+    {
+      "name": "legal-en",
+      "source": "./legal/en",
+      "description": "Speed up contract review, NDA triage, and compliance workflows for in-house legal teams. Draft legal briefs, organize precedent research, and manage institutional knowledge."
+    },
+    {
+      "name": "legal-cs",
+      "source": "./legal/cs",
+      "description": "Zrychlete revizi smluv, triage NDA a compliance workflow pro interní právní týmy. Přizpůsobeno pro české a evropské právní prostředí s napojením na DirectCase (judikatura ČR, zákony, regulatorika)."
+    }
+  ]
+}
